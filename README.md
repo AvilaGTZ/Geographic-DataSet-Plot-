@@ -13,4 +13,6 @@ Will plot a data set of Conv-19 all over the globe with Folium, Python and Anaco
  You can create a new project download the csv file and copy the code or download all and run cell by cell so you can see
  how to create a map with any data set you wish!
  
+ You can see the images attached of how you will see the map once you finish the project.
+ 
  Good luck!
